@@ -1,8 +1,7 @@
 # CongNgehPhanMemNangCao_ThucHanh
 Mô tả đồ án:
   Đồ án công nghệ phần mền nâng cao thực hiện đề tài website thư viện online, cho độc giả có thể xem và đăng ký mượn sách nhanh chóng
-  ![Uploading image.png…]()
-
+<img src="[https://...](https://github.com/Alhphuc03/CongNgehPhanMemNangCao_ThucHanh/assets/144695353/64f3c492-e20b-49e4-b9c1-6b443c86a15e)" alt="..." width="250" />
 Tính năng Chính
   Dự án Thư viện Trực tuyến cung cấp một loạt tính năng, bao gồm:
   
