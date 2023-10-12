@@ -1,7 +1,8 @@
 # CongNgehPhanMemNangCao_ThucHanh
 Mô tả đồ án:
   Đồ án công nghệ phần mền nâng cao thực hiện đề tài website thư viện online, cho độc giả có thể xem và đăng ký mượn sách nhanh chóng
-
+<img src="https://github.com/Alhphuc03/CongNgehPhanMemNangCao_ThucHanh/assets/144695353/5576151a-46b7-4cd2-9678-d750e59e8cf1">
+<img src="https://github.com/Alhphuc03/CongNgehPhanMemNangCao_ThucHanh/assets/144695353/ee1e403b-0098-4e18-a074-636c1ee05f95">
 Tính năng Chính
   Dự án Thư viện Trực tuyến cung cấp một loạt tính năng, bao gồm:
   
@@ -16,7 +17,7 @@ Tính năng Chính
   Quản lý danh sách mượn sách: Người dùng có khả năng kiểm tra danh sách các cuốn sách mà họ đã mượn và thời hạn mượn.
   
   Quản trị viên (Admin): Quản trị viên có quyền quản lý sách, người dùng, và theo dõi tình trạng mượn sách.
-  
+
 Công nghệ và ngôn ngữ sử dụng:
   Ngôn ngữ lập trình C#: Dự án được viết bằng C#, một ngôn ngữ lập trình phổ biến trong phát triển ứng dụng web trên nền tảng .NET.
   
