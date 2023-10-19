@@ -8,6 +8,7 @@ Thành viên
 | Lương Đức Phú         | PhuLuong | Dev                  |
 | Đăng Huỳnh Trung Dũng | DungDang | Scrum Master / Dev   |
 | Trần Ngô Gia Mẫn      | ManTran  | Dev                  |
+
 Mô tả đồ án:
   Đồ án công nghệ phần mền nâng cao thực hiện đề tài website thư viện online, cho độc giả có thể xem và đăng ký mượn sách nhanh chóng
 <img src="https://github.com/Alhphuc03/CongNgehPhanMemNangCao_ThucHanh/assets/144695353/5576151a-46b7-4cd2-9678-d750e59e8cf1">
