@@ -56,6 +56,13 @@ Dự án "Thư viện Trực tuyến" sử dụng các công nghệ và ngôn ng
 
 - **SQL Server**: Dự án sử dụng SQL Server làm cơ sở dữ liệu chính để lưu trữ thông tin về sách, người dùng, và các thông tin mượn sách.
 
-Nếu bạn muốn đóng góp hoặc báo lỗi, hãy liên hệ với chúng tôi qua các thông tin liên hệ của thành viên trong nhóm.
+## Hướng Dẫn Cài Đặt
+(Thêm hướng dẫn cài đặt và triển khai ứng dụng vào đây)
+
+## Đóng Góp
+(Thêm hướng dẫn và quy tắc cho việc đóng góp vào dự án, bao gồm cách báo lỗi, đề xuất tính năng, và tham gia vào phát triển)
+
+## Liên Hệ
+Lê Hữu Phúc - 0947284591 
 
 Cảm ơn bạn đã quan tâm và theo dõi dự án của chúng tôi!
