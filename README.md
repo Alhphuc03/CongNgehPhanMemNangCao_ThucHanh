@@ -3,14 +3,14 @@ Thành viên
 | Họ và tên             | Account  | Role                |
 |-----------------------|----------|---------------------|
 | Lê Hữu Phúc           | PhucLe   | Team Lead / Dev      |
+| Đăng Huỳnh Trung Dũng | DungDang | Scrum Master / Dev   |
 | Lê Huỳnh Quốc Đạt     | Datle    | Dev                  |
 | Lâm Hoàng Long        | LongLam  | Product Owner / Dev  |
 | Lương Đức Phú         | PhuLuong | Dev                  |
-| Đăng Huỳnh Trung Dũng | DungDang | Scrum Master / Dev   |
 | Trần Ngô Gia Mẫn      | ManTran  | Dev                  |
 
 Mô tả đồ án:
-  Đồ án công nghệ phần mền nâng cao thực hiện đề tài website thư viện online, cho độc giả có thể xem và đăng ký mượn sách nhanh chóng
+ Đồ án website thư viện mượn trả sách là một ứng dụng web cho phép người dùng tìm kiếm, mượn, và quản lý sách trong thư viện. Nó cung cấp tính năng đăng nhập và đăng ký tài khoản, quản lý cơ sở dữ liệu sách, theo dõi sách đang mượn, và quản lý thông tin cá nhân. Đây là một công cụ hiệu quả giúp thư viện tăng cường quản lý và cung cấp dịch vụ thuận tiện cho độc giả.
 <img src="https://github.com/Alhphuc03/CongNgehPhanMemNangCao_ThucHanh/assets/144695353/5576151a-46b7-4cd2-9678-d750e59e8cf1">
 Tính năng Chính
   Dự án Thư viện Trực tuyến cung cấp một loạt tính năng, bao gồm:
@@ -27,6 +27,9 @@ Tính năng Chính
   
   Quản trị viên (Admin): Quản trị viên có quyền quản lý sách, người dùng, và theo dõi tình trạng mượn sách.
 <img src="https://github.com/Alhphuc03/CongNgehPhanMemNangCao_ThucHanh/assets/144695353/ee1e403b-0098-4e18-a074-636c1ee05f95">
+
+Trang admin:
+<img src="blob:https://www.facebook.com/dcbcca82-c3e8-4f3e-b288-47738df119a5">
 Công nghệ và ngôn ngữ sử dụng:
   Ngôn ngữ lập trình C#: Dự án được viết bằng C#, một ngôn ngữ lập trình phổ biến trong phát triển ứng dụng web trên nền tảng .NET.
   
