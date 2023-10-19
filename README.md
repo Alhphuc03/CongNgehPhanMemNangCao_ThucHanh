@@ -1,6 +1,5 @@
 # CongNghePhanMemNangCao_ThucHanh
 Thành viên
-Thành viên:
 | Họ và tên             | Account  | Role                |
 |-----------------------|----------|---------------------|
 | Lê Hữu Phúc           | PhucLe   | Team Lead / Dev      |
