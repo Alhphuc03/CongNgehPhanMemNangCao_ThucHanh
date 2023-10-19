@@ -1,12 +1,13 @@
 # CongNghePhanMemNangCao_ThucHanh
 Thành viên
+Thành viên:
 | Họ và tên             | Account  | Role                |
 |-----------------------|----------|---------------------|
-| Lê Hữu Phúc                                                      | PhucLe                                                      | Team Lead / Dev      |
-| Đăng Huỳnh Trung Dũng | DungDang | Scrum Master / Dev   |
-| Lâm Hoàng Long        | LongLam  | Product Owner / Dev  |
+| Lê Hữu Phúc           | PhucLe   | Team Lead / Dev      |
 | Lê Huỳnh Quốc Đạt     | Datle    | Dev                  |
+| Lâm Hoàng Long        | LongLam  | Product Owner / Dev  |
 | Lương Đức Phú         | PhuLuong | Dev                  |
+| Đăng Huỳnh Trung Dũng | DungDang | Scrum Master / Dev   |
 | Trần Ngô Gia Mẫn      | ManTran  | Dev                  |
 
 Mô tả đồ án:
