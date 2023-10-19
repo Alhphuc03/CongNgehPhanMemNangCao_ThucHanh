@@ -25,11 +25,21 @@ Tính năng Chính
   
   Quản lý danh sách mượn sách: Người dùng có khả năng kiểm tra danh sách các cuốn sách mà họ đã mượn và thời hạn mượn.
   
-  Quản trị viên (Admin): Quản trị viên có quyền quản lý sách, người dùng, và theo dõi tình trạng mượn sách.
+ 
 <img src="https://github.com/Alhphuc03/CongNgehPhanMemNangCao_ThucHanh/assets/144695353/ee1e403b-0098-4e18-a074-636c1ee05f95">
 
 Trang admin:
 <img src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.15752-9/393993331_989078955534018_940743434601955818_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=v7KJyyR_xSkAX8BtGev&_nc_ht=scontent.fsgn3-1.fna&oh=03_AdSLErt5ZVJnGjaGxzq1RRlPDSWvHO813JsVUarIRh5EyA&oe=655864EF">
+  Quản trị viên có quyền quản lý sách.
+
+  Quản lý mượn trả: theo dõi mượn trả, thêm xóa chỉnh sửa phiếu mượn.
+
+  Quản lý nhân viên: theo dõi tình trạng nhân viên, thêm mới và xóa.
+
+  Quản lý kho: nhập sách mới.
+
+  Quản lý nhà xuất bản thể loại: cập nhật thể loại và nhà xuất bản.
+  
 Công nghệ và ngôn ngữ sử dụng:
   Ngôn ngữ lập trình C#: Dự án được viết bằng C#, một ngôn ngữ lập trình phổ biến trong phát triển ứng dụng web trên nền tảng .NET.
   
