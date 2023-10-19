@@ -1,4 +1,4 @@
-![image](https://github.com/Alhphuc03/Nhom2_ThuVien_T5_Ca4/assets/144695353/9cb1e9f0-1ba6-4331-b538-e30ad55d15a4)# CongNghePhanMemNangCao_ThucHanh
+# CongNghePhanMemNangCao_ThucHanh
 Thành viên
 | Họ và tên             | Account  | Role                |
 |-----------------------|----------|---------------------|
