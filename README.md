@@ -29,7 +29,7 @@ Tính năng Chính
 <img src="https://github.com/Alhphuc03/CongNgehPhanMemNangCao_ThucHanh/assets/144695353/ee1e403b-0098-4e18-a074-636c1ee05f95">
 
 Trang admin:
-<img src="[https://www.facebook.com/dcbcca82-c3e8-4f3e-b288-47738df119a5](https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.15752-9/393993331_989078955534018_940743434601955818_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=v7KJyyR_xSkAX8BtGev&_nc_ht=scontent.fsgn3-1.fna&oh=03_AdSLErt5ZVJnGjaGxzq1RRlPDSWvHO813JsVUarIRh5EyA&oe=655864EF)">
+<img src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.15752-9/393993331_989078955534018_940743434601955818_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=v7KJyyR_xSkAX8BtGev&_nc_ht=scontent.fsgn3-1.fna&oh=03_AdSLErt5ZVJnGjaGxzq1RRlPDSWvHO813JsVUarIRh5EyA&oe=655864EF">
 Công nghệ và ngôn ngữ sử dụng:
   Ngôn ngữ lập trình C#: Dự án được viết bằng C#, một ngôn ngữ lập trình phổ biến trong phát triển ứng dụng web trên nền tảng .NET.
   
