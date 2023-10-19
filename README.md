@@ -31,7 +31,7 @@ Tính năng Chính
 Trang admin:
 <img src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.15752-9/393993331_989078955534018_940743434601955818_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=v7KJyyR_xSkAX8BtGev&_nc_ht=scontent.fsgn3-1.fna&oh=03_AdSLErt5ZVJnGjaGxzq1RRlPDSWvHO813JsVUarIRh5EyA&oe=655864EF">
   Quản trị viên có quyền quản lý sách.
-<img src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.15752-9/393993331_989078955534018_940743434601955818_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=v7KJyyR_xSkAX8BtGev&_nc_ht=scontent.fsgn3-1.fna&oh=03_AdSLErt5ZVJnGjaGxzq1RRlPDSWvHO813JsVUarIRh5EyA&oe=655864EF">
+<img src="https://scontent.fsgn13-2.fna.fbcdn.net/v/t1.15752-9/393996314_2089349151402417_7064274975862263722_n.png?_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=XM6ZFbZXU2wAX8B04rQ&_nc_oc=AQkGfrT4PSkMQol1tIoGGeO2Xz0V5LHjM3izuEsnoyqtOJ7Oqtvnxssl7P_rDj06BO4&_nc_ht=scontent.fsgn13-2.fna&oh=03_AdTv8TS19h3QwRrAuRT7DhznYMfKdFO5HXdx9B5aFgsqKQ&oe=65587670">
   Quản lý mượn trả: theo dõi mượn trả, thêm xóa chỉnh sửa phiếu mượn.
 
   Quản lý nhân viên: theo dõi tình trạng nhân viên, thêm mới và xóa.
