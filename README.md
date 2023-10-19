@@ -1,7 +1,7 @@
 # CongNgehPhanMemNangCao_ThucHanh
 Thành viên
 | Họ và tên             | Account  | Role                |
-|-----------------------|----------|---------------------------|
+|-----------------------|----------|---------------------|
 | Lê Hữu Phúc           | PhucLe   | Team Lead / Dev      |
 | Lê Huỳnh Quốc Đạt     | Datle    | Dev                  |
 | Lâm Hoàng Long        | LongLam  | Product Owner / Dev  |
