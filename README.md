@@ -1,4 +1,4 @@
-# CongNghePhanMemNangCao_ThucHanh
+![image](https://github.com/Alhphuc03/Nhom2_ThuVien_T5_Ca4/assets/144695353/9cb1e9f0-1ba6-4331-b538-e30ad55d15a4)# CongNghePhanMemNangCao_ThucHanh
 Thành viên
 | Họ và tên             | Account  | Role                |
 |-----------------------|----------|---------------------|
@@ -31,7 +31,7 @@ Tính năng Chính
 Trang admin:
 <img src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.15752-9/393993331_989078955534018_940743434601955818_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=v7KJyyR_xSkAX8BtGev&_nc_ht=scontent.fsgn3-1.fna&oh=03_AdSLErt5ZVJnGjaGxzq1RRlPDSWvHO813JsVUarIRh5EyA&oe=655864EF">
   Quản trị viên có quyền quản lý sách.
-
+<img src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.15752-9/393993331_989078955534018_940743434601955818_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=v7KJyyR_xSkAX8BtGev&_nc_ht=scontent.fsgn3-1.fna&oh=03_AdSLErt5ZVJnGjaGxzq1RRlPDSWvHO813JsVUarIRh5EyA&oe=655864EF">
   Quản lý mượn trả: theo dõi mượn trả, thêm xóa chỉnh sửa phiếu mượn.
 
   Quản lý nhân viên: theo dõi tình trạng nhân viên, thêm mới và xóa.
