@@ -29,7 +29,7 @@ Tính năng Chính
 <img src="https://github.com/Alhphuc03/CongNgehPhanMemNangCao_ThucHanh/assets/144695353/ee1e403b-0098-4e18-a074-636c1ee05f95">
 
 Trang admin:
-<img src="blob:https://www.facebook.com/dcbcca82-c3e8-4f3e-b288-47738df119a5">
+<img src="https://www.facebook.com/dcbcca82-c3e8-4f3e-b288-47738df119a5">
 Công nghệ và ngôn ngữ sử dụng:
   Ngôn ngữ lập trình C#: Dự án được viết bằng C#, một ngôn ngữ lập trình phổ biến trong phát triển ứng dụng web trên nền tảng .NET.
   
