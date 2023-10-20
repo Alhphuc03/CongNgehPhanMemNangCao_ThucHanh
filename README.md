@@ -5,12 +5,12 @@
 ## Thành Viên
 | Họ và Tên             | Account  | Vai Trò                |
 |-----------------------|----------|------------------------|
-| Lê Hữu Phúc           | PhucLe   | Trưởng Nhóm / Lập Trình Viên  |
-| Lê Huỳnh Quốc Đạt     | Datle    | Lập Trình Viên                  |
-| Lâm Hoàng Long        | LongLam  | Chủ Sở Hữu Sản Phẩm / Lập Trình Viên  |
-| Lương Đức Phú         | PhuLuong | Lập Trình Viên                  |
-| Đăng Huỳnh Trung Dũng | DungDang | Scrum Master / Lập Trình Viên   |
-| Trần Ngô Gia Mẫn      | ManTran  | Lập Trình Viên                  |
+| Lê Hữu Phúc           | PhucLe   | Leader / Dev  |
+| Lê Huỳnh Quốc Đạt     | Datle    | Dev                  |
+| Lâm Hoàng Long        | LongLam  | Product owner / Dev  |
+| Lương Đức Phú         | PhuLuong | Dev                  |
+| Đăng Huỳnh Trung Dũng | DungDang | Scrum Master / Dev  |
+| Trần Ngô Gia Mẫn      | ManTran  | Dev                 |
 
 ## Mô Tả Dự Án
 Dự án "Thư viện Trực tuyến" là một ứng dụng web cho phép người dùng tìm kiếm, mượn, và quản lý sách trong thư viện. Nó cung cấp tính năng đăng nhập và đăng ký tài khoản, quản lý cơ sở dữ liệu sách, theo dõi sách đang mượn, và quản lý thông tin cá nhân. Đây là một công cụ hiệu quả giúp thư viện tăng cường quản lý và cung cấp dịch vụ thuận tiện cho độc giả.
