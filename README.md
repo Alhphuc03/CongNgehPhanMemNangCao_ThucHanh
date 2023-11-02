@@ -57,7 +57,7 @@ Dự án "Thư viện Trực tuyến" sử dụng các công nghệ và ngôn ng
 - **ASP.NET Core**: Framework ASP.NET Core được sử dụng để xây dựng ứng dụng web. Nó cung cấp các tính năng mạnh mẽ để xử lý yêu cầu HTTP và xây dựng API.
 
 - **Entity Framework Core**: Thư viện Entity Framework Core sử dụng để tương tác với cơ sở dữ liệu SQL Server. Nó giúp quản lý và truy cập dữ liệu một cách dễ dàng thông qua các mô hình dữ liệu (model).
-
+<img scr="https://spec.edu.vn/uploadfileimage/spec/khac/916600200c-sharp-c-seeklogo.com.png"> 
 - **SQL Server**: Dự án sử dụng SQL Server làm cơ sở dữ liệu chính để lưu trữ thông tin về sách, người dùng, và các thông tin mượn sách.
 
 ## Hướng Dẫn Cài Đặt
