@@ -49,25 +49,25 @@ Trang quản trị cho phép quản trị viên thực hiện các công việc 
 Dự án "Thư viện Trực tuyến" sử dụng các công nghệ và ngôn ngữ sau:
 
 - **Ngôn ngữ lập trình C#**: Dự án được viết bằng C#, một ngôn ngữ lập trình phổ biến trong phát triển ứng dụng web trên nền tảng .NET.
-   ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+   ![C#](https://img.icons8.com/color/96/000000/c-sharp-logo.png)
 
 - **ASP.NET Core**: Framework ASP.NET Core được sử dụng để xây dựng ứng dụng web. Nó cung cấp các tính năng mạnh mẽ để xử lý yêu cầu HTTP và xây dựng API.
-   ![ASP.NET Core](https://img.icons8.com/color/48/000000/asp.png)
+   ![ASP.NET Core](https://img.icons8.com/color/96/000000/asp.png)
 
 - **Entity Framework Core**: Thư viện Entity Framework Core sử dụng để tương tác với cơ sở dữ liệu SQL Server. Nó giúp quản lý và truy cập dữ liệu một cách dễ dàng thông qua các mô hình dữ liệu (model).
-   ![Entity Framework Core](https://img.icons8.com/color/48/000000/database.png)
+   ![Entity Framework Core](https://img.icons8.com/color/96/000000/database.png)
 
 - **SQL Server**: Dự án sử dụng SQL Server làm cơ sở dữ liệu chính để lưu trữ thông tin về sách, người dùng, và các thông tin mượn sách.
-   ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
-
+   ![SQL Server](https://img.icons8.com/color/96/000000/microsoft-sql-server.png)
+  
 - **HTML**: HTML(Hypertext Markup Language) được sử dụng để xác định cấu trúc và nội dung của trang web, bao gồm văn bản, hình ảnh, liên kết, biểu đồ và nhiều phần tử khác. HTML giúp trình duyệt web hiểu cách hiển thị thông tin trên trang và tạo một giao diện trực quan cho người dùng.
-   ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-
+   ![HTML](https://img.icons8.com/color/96/000000/html-5.png)
+  
 - **CSS**: CSS(Cascading Style Sheets) cho phép bạn điều khiển màu sắc, kích thước, khoảng cách, font chữ và các thuộc tính khác của các phần tử HTML, giúp bạn tạo ra giao diện trang web thẩm mỹ, dễ đọc và linh hoạt.
-   ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-
+   ![CSS](https://img.icons8.com/color/96/000000/css3.png)
+  
 - **JavaScript**: JavaCrip là một ngôn ngữ lập trình phía client-side (máy khách) thường được sử dụng trong việc phát triển ứng dụng web. Được phát triển ban đầu bởi Netscape, JavaScript.
-   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+   ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png)
 
 ## Hướng Dẫn Cài Đặt
 (Thêm hướng dẫn cài đặt và triển khai ứng dụng vào đây)
