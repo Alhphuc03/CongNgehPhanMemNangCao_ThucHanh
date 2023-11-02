@@ -51,7 +51,7 @@ Dự án "Thư viện Trực tuyến" sử dụng các công nghệ và ngôn ng
 - **Ngôn ngữ lập trình C#**: Dự án được viết bằng C#, một ngôn ngữ lập trình phổ biến trong phát triển ứng dụng web trên nền tảng .NET.
 
 
-![Ngôn Ngữ C](https://github.com/Alhphuc03/CongNgehPhanMemNangCao_ThucHanh/assets/144695353/5576151a-46b7-4cd2-9678-d750e59e8cf1)
+![Ngôn Ngữ C](https://www.google.com/url?sa=i&url=https%3A%2F%2Fspec.edu.vn%2Fkhoa-hoc-spec%2F24%2Fkhoa-hoc-c-sharp-nang-cao&psig=AOvVaw18-CTMnO4kFkQpKza20khV&ust=1699004089629000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCw2cuBpYIDFQAAAAAdAAAAABAE)
 
 - **ASP.NET Core**: Framework ASP.NET Core được sử dụng để xây dựng ứng dụng web. Nó cung cấp các tính năng mạnh mẽ để xử lý yêu cầu HTTP và xây dựng API.
 
