@@ -64,7 +64,23 @@ Dự án "Thư viện Trực tuyến" sử dụng các công nghệ và ngôn ng
 (Thêm hướng dẫn cài đặt và triển khai ứng dụng vào đây)
 
 ## Đóng Góp
-(Thêm hướng dẫn và quy tắc cho việc đóng góp vào dự án, bao gồm cách báo lỗi, đề xuất tính năng, và tham gia vào phát triển)
+1. Báo lỗi:
+Mô tả: Báo cáo lỗi một cách chi tiết và cung cấp thông tin về phiên bản dự án và môi trường.
+Cách làm: Sử dụng hệ thống quản lý lỗi của dự án hoặc cách được quy định. Đính kèm thông tin cần thiết.
+Quy tắc: Kiên nhẫn và tuân thủ quy định của dự án.
+
+2. Đề xuất tính năng:
+Mô tả: Đề xuất tính năng mới hoặc cải tiến với mô tả chi tiết và tài liệu tham khảo.
+Cách làm: Sử dụng hệ thống quản lý yêu cầu hoặc cách thức được hỗ trợ. Đảm bảo tính phù hợp và cần thiết của tính năng.
+Quy tắc: Tuân thủ hướng dẫn và quy định của dự án.
+
+3. Tham gia phát triển:
+Mô tả: Đóng góp vào dự án bằng cách code, kiểm tra, hoặc viết tài liệu.
+Cách làm: Fork dự án, làm việc trên branch riêng, tạo pull request sau khi hoàn thành công việc.
+Quy tắc: Tuân thủ quy tắc về coding style và quy định phát triển của dự án.
+
+## Hướng Phát triển
+
 
 ## Liên Hệ
 Lê Hữu Phúc - 0947284591 
