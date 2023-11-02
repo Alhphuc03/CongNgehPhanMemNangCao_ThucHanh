@@ -80,7 +80,11 @@ Cách làm: Fork dự án, làm việc trên branch riêng, tạo pull request s
 Quy tắc: Tuân thủ quy tắc về coding style và quy định phát triển của dự án.
 
 ## Hướng Phát triển
-
+1. Thu thập phản hồi từ người dùng: Liên tục thu thập ý kiến và phản hồi từ người dùng để cải thiện sản phẩm. Sử dụng các kênh liên lạc như hệ thống báo cáo lỗi, email hỗ trợ, mạng xã hội, và cuộc khảo sát.
+2. Bảo trì và hỗ trợ: Cung cấp dịch vụ bảo trì, hỗ trợ kỹ thuật, và sửa lỗi cho sản phẩm. Điều này bao gồm việc xử lý các lỗi mới, cập nhật bảo mật, và hỗ trợ người dùng trong quá trình sử dụng sản phẩm.
+3. Cải tiến và phát triển: Đặt kế hoạch cho việc cải tiến sản phẩm bằng cách thêm tính năng mới, tối ưu hóa hiệu suất, và cải thiện giao diện người dùng dựa trên phản hồi từ người dùng.
+4. Thảo luận và phản hồi: Liên tục thảo luận với người dùng, cộng đồng, và nhóm phát triển để cải thiện sản phẩm.
+5. Đo lường và đánh giá: Xác định các chỉ số hiệu suất và đo lường chúng để đảm bảo rằng sản phẩm đáp ứng mục tiêu và kỳ vọng.
 
 ## Liên Hệ
 Lê Hữu Phúc - 0947284591 
