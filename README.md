@@ -31,7 +31,7 @@ Dự án "Thư viện Trực tuyến" cung cấp các tính năng chính sau:
 5. **Quản Lý Danh Sách Mượn Sách**: Người dùng có khả năng kiểm tra danh sách các cuốn sách mà họ đã mượn và thời hạn mượn.
 
 ## Trang Quản Trị
-![Trang Quản Trị](https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.15752-9/393993331_989078955534018_940743434601955818_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=v7KJyyR_xSkAX8BtGev&_nc_ht=scontent.fsgn3-1.fna&oh=03_AdSLErt5ZVJnGjaGxzq1RRlPDSWvHO813JsVUarIRh5EyA&oe=655864EF)
+![Trang Quản Trị]([https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.15752-9/393993331_989078955534018_940743434601955818_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=v7KJyyR_xSkAX8BtGev&_nc_ht=scontent.fsgn3-1.fna&oh=03_AdSLErt5ZVJnGjaGxzq1RRlPDSWvHO813JsVUarIRh5EyA&oe=655864EF](https://unica.vn/media/imagesck/1611651442_phan-mem-lap-trinh-c-1.jpg?v=1611651442))
 
 Trang quản trị cho phép quản trị viên thực hiện các công việc sau:
 
