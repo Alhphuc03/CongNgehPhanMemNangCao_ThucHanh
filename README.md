@@ -57,10 +57,13 @@ Dự án "Thư viện Trực tuyến" sử dụng các công nghệ và ngôn ng
 - **ASP.NET Core**: Framework ASP.NET Core được sử dụng để xây dựng ứng dụng web. Nó cung cấp các tính năng mạnh mẽ để xử lý yêu cầu HTTP và xây dựng API.
 
 - **Entity Framework Core**: Thư viện Entity Framework Core sử dụng để tương tác với cơ sở dữ liệu SQL Server. Nó giúp quản lý và truy cập dữ liệu một cách dễ dàng thông qua các mô hình dữ liệu (model).
-<img scr="https://spec.edu.vn/uploadfileimage/spec/khac/916600200c-sharp-c-seeklogo.com.png"> 
+
 - **SQL Server**: Dự án sử dụng SQL Server làm cơ sở dữ liệu chính để lưu trữ thông tin về sách, người dùng, và các thông tin mượn sách.
+  
 - **HTML**: HTML(Hypertext Markup Language) được sử dụng để xác định cấu trúc và nội dung của trang web, bao gồm văn bản, hình ảnh, liên kết, biểu đồ và nhiều phần tử khác. HTML giúp trình duyệt web hiểu cách hiển thị thông tin trên trang và tạo một giao diện trực quan cho người dùng.
+  
 - **CSS**: CSS(Cascading Style Sheets) cho phép bạn điều khiển màu sắc, kích thước, khoảng cách, font chữ và các thuộc tính khác của các phần tử HTML, giúp bạn tạo ra giao diện trang web thẩm mỹ, dễ đọc và linh hoạt.
+  
 - **JavaCrip**: JavaCrip là một ngôn ngữ lập trình phía client-side (máy khách) thường được sử dụng trong việc phát triển ứng dụng web. Được phát triển ban đầu bởi Netscape, JavaScript.
 
 ## Hướng Dẫn Cài Đặt
