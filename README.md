@@ -70,7 +70,9 @@ Dự án "Thư viện Trực tuyến" sử dụng các công nghệ và ngôn ng
    ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png)
 
 ## Hướng Dẫn Cài Đặt
-(Thêm hướng dẫn cài đặt và triển khai ứng dụng vào đây)
+- Tải project về và cài đặt trên IDE Visual Studio
+- Tải file sql và cài đặt với tên là LIBRARY_FINAL
+- Sau đó vào file Web.cofig để thay đổi tên máy chủ sqlserver của bạn 
 
 ## Đóng Góp
 1. Báo lỗi:
