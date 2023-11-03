@@ -74,7 +74,9 @@ Dự án "Thư viện Trực tuyến" sử dụng các công nghệ và ngôn ng
 - **CSS**: CSS (Cascading Style Sheets) cho phép bạn điều khiển màu sắc, kích thước, khoảng cách, font chữ và các thuộc tính khác của các phần tử HTML, giúp bạn tạo ra giao diện trang web thẩm mỹ, dễ đọc và linh hoạt.
   
 - **JavaScript**: JavaScript là một ngôn ngữ lập trình phía client-side (máy khách) thường được sử dụng trong việc phát triển ứng dụng web. Được phát triển ban đầu bởi Netscape, JavaScript có sức mạnh xử lý logic phía client-side và làm cho trang web trở nên tương tác.
-  
+
+- **jQuery**: jQuery là một thư viện JavaScript phổ biến giúp đơn giản hóa việc thao tác với tài liệu HTML, xử lý sự kiện và làm cho ứng dụng web trở nên tương tác hơn.
+- 
 ![C#](https://img.icons8.com/color/96/000000/c-sharp-logo.png)
 ![ASP.NET Core](https://img.icons8.com/color/96/000000/asp.png)
 ![Entity Framework Core](https://img.icons8.com/color/96/000000/database.png)
@@ -82,6 +84,8 @@ Dự án "Thư viện Trực tuyến" sử dụng các công nghệ và ngôn ng
 ![HTML](https://img.icons8.com/color/96/000000/html-5.png)
 ![CSS](https://img.icons8.com/color/96/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png)
+![jQuery](https://img.icons8.com/color/96/000000/jquery.png)
+
 
 ## Hướng Dẫn Cài Đặt
 1. Tải project về và cài đặt trên IDE Visual Studio.
