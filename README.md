@@ -68,7 +68,11 @@ Dự án "Thư viện Trực tuyến" sử dụng các công nghệ và ngôn ng
   
 - **JavaScript**: JavaCrip là một ngôn ngữ lập trình phía client-side (máy khách) thường được sử dụng trong việc phát triển ứng dụng web. Được phát triển ban đầu bởi Netscape, JavaScript.
    ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png)
-
+   ![Entity Framework Core](https://img.icons8.com/color/96/000000/database.png)
+   ![ASP.NET Core](https://img.icons8.com/color/96/000000/asp.png)
+   ![SQL Server](https://img.icons8.com/color/96/000000/microsoft-sql-server.png)
+   ![HTML](https://img.icons8.com/color/96/000000/html-5.png)
+   ![CSS](https://img.icons8.com/color/96/000000/css3.png)
 ## Hướng Dẫn Cài Đặt
 - Tải project về và cài đặt trên IDE Visual Studio
 - Tải file sql và cài đặt với tên là LIBRARY_FINAL
