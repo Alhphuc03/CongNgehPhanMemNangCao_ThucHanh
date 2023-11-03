@@ -49,7 +49,7 @@ Trang quản trị cho phép quản trị viên thực hiện các công việc 
 Dự án "Thư viện Trực tuyến" sử dụng các công nghệ và ngôn ngữ sau:
 
 - **Ngôn ngữ lập trình C#**: Dự án được viết bằng C#, một ngôn ngữ lập trình phổ biến trong phát triển ứng dụng web trên nền tảng .NET.
-   ![C#](https://img.icons8.com/color/96/000000/c-sharp-logo.png)
+   ![C#](https://img.icons8.com/color/86/000000/c-sharp-logo.png)
 
 - **ASP.NET Core**: Framework ASP.NET Core được sử dụng để xây dựng ứng dụng web. Nó cung cấp các tính năng mạnh mẽ để xử lý yêu cầu HTTP và xây dựng API.
    ![ASP.NET Core](https://img.icons8.com/color/96/000000/asp.png)
