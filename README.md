@@ -1,26 +1,6 @@
 # Dự Án Thư Viện Trực Tuyến
 
 ![Thư viện Trực tuyến](https://github.com/Alhphuc03/CongNgehPhanMemNangCao_ThucHanh/assets/144695353/5576151a-46b7-4cd2-9678-d750e59e8cf1)
-<style>
-  /* Tùy chỉnh kiểu dáng menu dọc */
-  p.align-center {
-    text-align: center;
-  }
-
-  p.align-center a {
-    margin: 0 10px;
-    text-decoration: none;
-    font-size: 16px;
-    color: #007BFF;
-  }
-
-  p.align-center a:hover {
-    color: #0056b3;
-    text-decoration: underline;
-  }
-</style>
-
-<!-- Sử dụng CSS đã tạo trong phần Markdown -->
 <p class="align-center">
   <a href="#thành-viên">Thành Viên</a> •
   <a href="#mô-tả-dự-án">Mô Tả Dự Án</a> •
