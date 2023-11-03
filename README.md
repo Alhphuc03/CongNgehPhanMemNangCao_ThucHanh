@@ -1,7 +1,8 @@
 # Dự Án Thư Viện Trực Tuyến
 
 ![Thư viện Trực tuyến](https://github.com/Alhphuc03/CongNgehPhanMemNangCao_ThucHanh/assets/144695353/5576151a-46b7-4cd2-9678-d750e59e8cf1)
-<p class="align-center">
+
+<p align="center">
   <a href="#thành-viên">Thành Viên</a> •
   <a href="#mô-tả-dự-án">Mô Tả Dự Án</a> •
   <a href="#tính-năng-chính">Tính Năng Chính</a> •
