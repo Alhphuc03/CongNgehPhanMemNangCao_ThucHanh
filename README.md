@@ -60,7 +60,7 @@ Dự án "Thư viện Trực tuyến" sử dụng các công nghệ và ngôn ng
   
 - **CSS**: CSS(Cascading Style Sheets) cho phép bạn điều khiển màu sắc, kích thước, khoảng cách, font chữ và các thuộc tính khác của các phần tử HTML, giúp bạn tạo ra giao diện trang web thẩm mỹ, dễ đọc và linh hoạt.
   
-- **JavaScript**: JavaCrip là một ngôn ngữ lập trình phía client-side (máy khách) thường được sử dụng trong việc phát triển ứng dụng web. Được phát triển ban đầu bởi Netscape, JavaScript.
+- **JavaScript**: JavaCrip là một ngôn ngữ lập trình phía client-side (máy khách) thường được sử dụng trong việc phát triển ứng dụng web. Được phát triển ban đầu bởi Netscape, JavaScript. </br>
    ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png)
    ![Entity Framework Core](https://img.icons8.com/color/96/000000/database.png)
    ![ASP.NET Core](https://img.icons8.com/color/96/000000/asp.png)
