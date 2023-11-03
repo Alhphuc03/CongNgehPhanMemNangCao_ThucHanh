@@ -1,7 +1,17 @@
 # Dự Án Thư Viện Trực Tuyến
 
 ![Thư viện Trực tuyến](https://github.com/Alhphuc03/CongNgehPhanMemNangCao_ThucHanh/assets/144695353/5576151a-46b7-4cd2-9678-d750e59e8cf1)
-
+<p align="center">
+  <a href="#thành-viên">Thành Viên</a> •
+  <a href="#mô-tả-dự-án">Mô Tả Dự Án</a> •
+  <a href="#tính-năng-chính">Tính Năng Chính</a> •
+  <a href="#trang-quản-trị">Trang Quản Trị</a> •
+  <a href="#công-nghệ-va-ngôn-ngữ-sử-dụng">Công Nghệ và Ngôn Ngữ</a> •
+  <a href="#hướng-dẫn-cài-đặt">Hướng Dẫn Cài Đặt</a> •
+  <a href="#đóng-góp">Đóng Góp</a> •
+  <a href="#hướng-phát-triển">Hướng Phát Triển</a> •
+  <a href="#liên-hệ">Liên Hệ</a>
+</p>
 ## Thành Viên
 | Họ và Tên             | Account  | Vai Trò                |
 |-----------------------|----------|------------------------|
