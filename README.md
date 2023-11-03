@@ -56,47 +56,51 @@ Dự án "Thư viện Trực tuyến" sử dụng các công nghệ và ngôn ng
 
 - **SQL Server**: Dự án sử dụng SQL Server làm cơ sở dữ liệu chính để lưu trữ thông tin về sách, người dùng, và các thông tin mượn sách.
   
-- **HTML**: HTML(Hypertext Markup Language) được sử dụng để xác định cấu trúc và nội dung của trang web, bao gồm văn bản, hình ảnh, liên kết, biểu đồ và nhiều phần tử khác. HTML giúp trình duyệt web hiểu cách hiển thị thông tin trên trang và tạo một giao diện trực quan cho người dùng.
+- **HTML**: HTML (Hypertext Markup Language) được sử dụng để xác định cấu trúc và nội dung của trang web, bao gồm văn bản, hình ảnh, liên kết, biểu đồ và nhiều phần tử khác. HTML giúp trình duyệt web hiểu cách hiển thị thông tin trên trang và tạo một giao diện trực quan cho người dùng.
   
-- **CSS**: CSS(Cascading Style Sheets) cho phép bạn điều khiển màu sắc, kích thước, khoảng cách, font chữ và các thuộc tính khác của các phần tử HTML, giúp bạn tạo ra giao diện trang web thẩm mỹ, dễ đọc và linh hoạt.
+- **CSS**: CSS (Cascading Style Sheets) cho phép bạn điều khiển màu sắc, kích thước, khoảng cách, font chữ và các thuộc tính khác của các phần tử HTML, giúp bạn tạo ra giao diện trang web thẩm mỹ, dễ đọc và linh hoạt.
   
-- **JavaScript**: JavaCrip là một ngôn ngữ lập trình phía client-side (máy khách) thường được sử dụng trong việc phát triển ứng dụng web. Được phát triển ban đầu bởi Netscape, JavaScript. </br>
-   ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png)
-   ![Entity Framework Core](https://img.icons8.com/color/96/000000/database.png)
-   ![ASP.NET Core](https://img.icons8.com/color/96/000000/asp.png)
-   ![SQL Server](https://img.icons8.com/color/96/000000/microsoft-sql-server.png)
-   ![HTML](https://img.icons8.com/color/96/000000/html-5.png)
-   ![CSS](https://img.icons8.com/color/96/000000/css3.png)
-     ![C#](https://img.icons8.com/color/96/000000/c-sharp-logo.png)
+- **JavaScript**: JavaScript là một ngôn ngữ lập trình phía client-side (máy khách) thường được sử dụng trong việc phát triển ứng dụng web. Được phát triển ban đầu bởi Netscape, JavaScript có sức mạnh xử lý logic phía client-side và làm cho trang web trở nên tương tác.
+  
+![C#](https://img.icons8.com/color/96/000000/c-sharp-logo.png)
+![ASP.NET Core](https://img.icons8.com/color/96/000000/asp.png)
+![Entity Framework Core](https://img.icons8.com/color/96/000000/database.png)
+![SQL Server](https://img.icons8.com/color/96/000000/microsoft-sql-server.png)
+![HTML](https://img.icons8.com/color/96/000000/html-5.png)
+![CSS](https://img.icons8.com/color/96/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/96/000000/javascript.png)
+
 ## Hướng Dẫn Cài Đặt
-- Tải project về và cài đặt trên IDE Visual Studio
-- Tải file sql và cài đặt với tên là LIBRARY_FINAL
-- Sau đó vào file Web.cofig để thay đổi tên máy chủ sqlserver của bạn 
+1. Tải project về và cài đặt trên IDE Visual Studio.
+2. Tải file SQL và cài đặt với tên là LIBRARY_FINAL.
+3. Sau đó, vào file Web.config để thay đổi tên máy chủ SQL Server của bạn.
 
 ## Đóng Góp
-1. Báo lỗi:
+### Báo Lỗi
 Mô tả: Báo cáo lỗi một cách chi tiết và cung cấp thông tin về phiên bản dự án và môi trường.
 Cách làm: Sử dụng hệ thống quản lý lỗi của dự án hoặc cách được quy định. Đính kèm thông tin cần thiết.
 Quy tắc: Kiên nhẫn và tuân thủ quy định của dự án.
 
-2. Đề xuất tính năng:
+### Đề Xuất Tính Năng
 Mô tả: Đề xuất tính năng mới hoặc cải tiến với mô tả chi tiết và tài liệu tham khảo.
 Cách làm: Sử dụng hệ thống quản lý yêu cầu hoặc cách thức được hỗ trợ. Đảm bảo tính phù hợp và cần thiết của tính năng.
 Quy tắc: Tuân thủ hướng dẫn và quy định của dự án.
 
-3. Tham gia phát triển:
+### Tham Gia Phát Triển
 Mô tả: Đóng góp vào dự án bằng cách code, kiểm tra, hoặc viết tài liệu.
 Cách làm: Fork dự án, làm việc trên branch riêng, tạo pull request sau khi hoàn thành công việc.
 Quy tắc: Tuân thủ quy tắc về coding style và quy định phát triển của dự án.
 
-## Hướng Phát triển
-1. Thu thập phản hồi từ người dùng: Liên tục thu thập ý kiến và phản hồi từ người dùng để cải thiện sản phẩm. Sử dụng các kênh liên lạc như hệ thống báo cáo lỗi, email hỗ trợ, mạng xã hội, và cuộc khảo sát.
-2. Bảo trì và hỗ trợ: Cung cấp dịch vụ bảo trì, hỗ trợ kỹ thuật, và sửa lỗi cho sản phẩm. Điều này bao gồm việc xử lý các lỗi mới, cập nhật bảo mật, và hỗ trợ người dùng trong quá trình sử dụng sản phẩm.
-3. Cải tiến và phát triển: Đặt kế hoạch cho việc cải tiến sản phẩm bằng cách thêm tính năng mới, tối ưu hóa hiệu suất, và cải thiện giao diện người dùng dựa trên phản hồi từ người dùng.
-4. Thảo luận và phản hồi: Liên tục thảo luận với người dùng, cộng đồng, và nhóm phát triển để cải thiện sản phẩm.
-5. Đo lường và đánh giá: Xác định các chỉ số hiệu suất và đo lường chúng để đảm bảo rằng sản phẩm đáp ứng mục tiêu và kỳ vọng.
+## Hướng Phát Triển
+1. Thu Thập Phản Hồi Từ Người Dùng: Liên tục thu thập ý kiến và phản hồi từ người dùng để cải thiện sản phẩm. Sử dụng các kênh liên lạc như hệ thống báo cáo lỗi, email hỗ trợ, mạng xã hội, và cuộc khảo sát.
+2. Bảo Trì Và Hỗ Trợ: Cung cấp dịch vụ bảo trì, hỗ trợ kỹ thuật, và sửa lỗi cho sản phẩm. Điều này bao gồm việc xử lý các lỗi mới, cập nhật bảo mật, và hỗ trợ người dùng trong quá trình sử dụng sản phẩm.
+3. Cải Tiến Và Phát Triển: Đặt kế hoạch cho việc cải tiến sản phẩm bằng cách thêm tính năng mới, tối ưu hóa hiệu suất, và cải thiện giao diện người dùng dựa trên phản hồi từ người dùng.
+4. Thảo Luận Và Phản Hồi: Liên tục thảo luận với người dùng, cộng đồng, và nhóm phát triển để cải thiện sản phẩm.
+5. Đo Lường Và Đánh Giá: Xác định các chỉ số hiệu suất và đo lường chúng để đảm bảo rằng sản phẩm đáp ứng mục tiêu và kỳ vọng.
 
 ## Liên Hệ
-Lê Hữu Phúc - 0947284591 
+Lê Hữu Phúc - 0947284591
 
 Cảm ơn bạn đã quan tâm và theo dõi dự án của chúng tôi!
+
+**[Xem Video Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)**
