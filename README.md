@@ -67,6 +67,7 @@ Dự án "Thư viện Trực tuyến" sử dụng các công nghệ và ngôn ng
    ![SQL Server](https://img.icons8.com/color/96/000000/microsoft-sql-server.png)
    ![HTML](https://img.icons8.com/color/96/000000/html-5.png)
    ![CSS](https://img.icons8.com/color/96/000000/css3.png)
+     ![C#](https://img.icons8.com/color/96/000000/c-sharp-logo.png)
 ## Hướng Dẫn Cài Đặt
 - Tải project về và cài đặt trên IDE Visual Studio
 - Tải file sql và cài đặt với tên là LIBRARY_FINAL
